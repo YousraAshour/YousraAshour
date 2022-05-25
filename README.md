@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousra Ashour</h1>
-<h3 align="center">An AI and Machine Learning intern in ITI</h3>
+<h3 align="center"> AI and Machine Learning Intern in ITI</h3>
 
 - 🔭 I’m currently working on [Dry Beans ML Project](https://github.com/YousraAshour/DryBeans_Competition/blob/4551aad56fe64ed0ea91495a9f4078a4292c4ba8/Project%20Description)
 
