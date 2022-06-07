@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousra Ashour</h1>
 <h3 align="center"> AI and Machine Learning Intern in ITI</h3>
 
-- 🔭 I’m currently working on [Dry Beans ML Project](https://github.com/YousraAshour/DryBeans_Competition/blob/4551aad56fe64ed0ea91495a9f4078a4292c4ba8/Project%20Description)
+- 🔭 I’m currently working on [NLP and Machine Learning to Build Sustainability Benchmarking System Globally Project]([https://github.com/YousraAshour/DryBeans_Competition/blob/4551aad56fe64ed0ea91495a9f4078a4292c4ba8/Project%20Description](https://github.com/YousraAshour/SustainLab-Using-NLP-and-Machine-Learning-to-Build-Sustainability-Benchmarking-System-Globally))
 
 - 🌱 I’m currently learning **MLOps, Blockchain, Deep Learning, NLP**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Eng.yousraashour@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aLXLP7WYC5eLwArd0f8pOmD0_AwF_M-8/view?usp=drivesdk](https://drive.google.com/file/d/1aLXLP7WYC5eLwArd0f8pOmD0_AwF_M-8/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](shorturl.at/hjJO2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
