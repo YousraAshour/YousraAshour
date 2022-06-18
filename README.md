@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [NLP and Machine Learning to Build Sustainability Benchmarking System Globally Project](https://github.com/YousraAshour/SustainLab-Using-NLP-and-Machine-Learning-to-Build-Sustainability-Benchmarking-System-Globally)
 
-- 🌱 I’m currently learning **MLOps, Blockchain, Deep Learning, NLP**
+- 🌱 I’m currently learning **MLOps, Blockchain, Deep Learning, and NLP**
 
 - 👨‍💻 All of my projects are available at [Github.com/yousraashour](Github.com/yousraashour)
 
-- 💬 Ask me about **Entrepreneurship, Machine Learning, AI, Business**
+- 💬 Ask me about **Entrepreneurship, Machine Learning, AI, and Business**
 
 - 📫 How to reach me **Eng.yousraashour@gmail.com**
 
