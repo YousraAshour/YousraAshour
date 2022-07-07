@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yousra Ashour</h1>
-<h3 align="center"> AI and Machine Learning Intern in ITI</h3>
+<h3 align="center"> AI and Machine Learning Intern at ITI</h3>
 
 - 🔭 I’m currently working on [Books Recommender System using TensorFlow](https://github.com/YousraAshour/Recommender-System-using-TensorFlow)
 
-- 🌱 I’m currently learning **MLOps, Blockchain, Deep Learning, and NLP**
+- 🌱 I’m currently learning **MLOps, Blockchain, Deep Learning, and Big Data**
 
 - 👨‍💻 All of my projects are available at [Github.com/yousraashour](Github.com/yousraashour)
 
