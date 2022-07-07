@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousra Ashour</h1>
 <h3 align="center"> AI and Machine Learning Intern in ITI</h3>
 
-- 🔭 I’m currently working on [NLP and Machine Learning to Build Sustainability Benchmarking System Globally Project](https://github.com/YousraAshour/SustainLab-Using-NLP-and-Machine-Learning-to-Build-Sustainability-Benchmarking-System-Globally)
+- 🔭 I’m currently working on [Books Recommender System using TensorFlow](https://github.com/YousraAshour/Recommender-System-using-TensorFlow)
 
 - 🌱 I’m currently learning **MLOps, Blockchain, Deep Learning, and NLP**
 
