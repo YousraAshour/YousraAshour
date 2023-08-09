@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Banque Misr Digital Transformation Project ](https://github.com/YousraAshour/Recommender-System-using-TensorFlow)
 
-- 🌱 I’m currently learning **MLOps, data architecture, Big Data and Blockchain**
+- 🌱 I’m currently learning **MLOps, Data Architecture, Big Data and Blockchain**
 
 - 👨‍💻 All of my projects are available at [Github.com/yousraashour](Github.com/yousraashour)
 
