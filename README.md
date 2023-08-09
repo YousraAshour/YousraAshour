@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yousra Ashour</h1>
-<h3 align="center"> AI and Machine Learning Intern at ITI</h3>
+<h3 align="center"> Data Engineer at Inetum </h3>
 
-- 🔭 I’m currently working on [Books Recommender System using TensorFlow](https://github.com/YousraAshour/Recommender-System-using-TensorFlow)
+- 🔭 I’m currently working on [Banque Misr Digital Transformation Project ](https://github.com/YousraAshour/Recommender-System-using-TensorFlow)
 
-- 🌱 I’m currently learning **MLOps, Blockchain, Deep Learning, and Big Data**
+- 🌱 I’m currently learning **MLOps, data architecture, Big Data and Blockchain**
 
 - 👨‍💻 All of my projects are available at [Github.com/yousraashour](Github.com/yousraashour)
 
-- 💬 Ask me about **Entrepreneurship, Machine Learning, AI, and Business**
+- 💬 Ask me about **Big Data, Entrepreneurship, Machine Learning, AI, and Business**
 
 - 📫 How to reach me **Eng.yousraashour@gmail.com**
 
