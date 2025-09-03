@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousra Ashour</h1>
-<h3 align="center"> Data Engineer at Inetum </h3>
-
-- 🔭 I’m currently working on [Banque Misr Digital Transformation Project ](https://github.com/YousraAshour/Recommender-System-using-TensorFlow)
+<h3 align="center"> Data Engineer</h3>
 
 - 🌱 I’m currently learning **MLOps, Data Architecture, Big Data and Blockchain**
 
@@ -10,8 +8,6 @@
 - 💬 Ask me about **Big Data, Entrepreneurship, Machine Learning, AI, and Business**
 
 - 📫 How to reach me **Eng.yousraashour@gmail.com**
-
-- 📄 Know about my experiences [Resume](shorturl.at/hjJO2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
